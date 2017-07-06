@@ -11,10 +11,11 @@
 
 			mover = new Mover();
 			this.addChild(mover);
-			mover.Evens();
-
+			mover.Events();
+			
 		}
 
 	}
+
 
 }
